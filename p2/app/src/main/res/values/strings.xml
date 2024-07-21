@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="launch_next_activity">Launch Next Activity</string>
+    <string name="this_is_portrait">This is Portrait</string>
+</resources>
